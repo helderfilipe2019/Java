@@ -1,4 +1,4 @@
-package desigPatterns.singleton.demo.threadSafety;
+package designPatterns.singleton.demo.threadSafety;
 
 public class MakeACaptainThreadSafetyOne {
 

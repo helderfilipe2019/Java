@@ -1,4 +1,4 @@
-package desigPatterns.singleton.demo;
+package designPatterns.singleton.demo;
 
 public class TestSingleton {
 
