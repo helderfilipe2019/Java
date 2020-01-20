@@ -1,4 +1,4 @@
-package designPatterns.behavirolPatterns.iterator;
+package designPatterns.behavioralPatterns.iterator;
 
 import java.util.LinkedList;
 
