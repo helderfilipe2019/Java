@@ -1,4 +1,4 @@
-package designPatterns.singleton.demo;
+package designPatterns.singleton;
 
 public class MakeACaptain {
 
