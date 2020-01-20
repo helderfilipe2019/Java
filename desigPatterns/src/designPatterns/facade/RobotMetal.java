@@ -1,4 +1,4 @@
-package designPattern.facade;
+package designPatterns.facade;
 
 public class RobotMetal {
 	
