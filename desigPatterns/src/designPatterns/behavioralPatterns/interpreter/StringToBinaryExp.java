@@ -1,4 +1,4 @@
-package designPatterns.behavirolPatterns.interpreter;
+package designPatterns.behavioralPatterns.interpreter;
 
 public class StringToBinaryExp implements IExpression {
 

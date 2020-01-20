@@ -1,4 +1,4 @@
-package designPatterns.behavirolPatterns.interpreter;
+package designPatterns.behavioralPatterns.interpreter;
 
 import java.util.Scanner;
 
