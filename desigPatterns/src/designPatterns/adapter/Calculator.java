@@ -1,4 +1,4 @@
-package designPatterns.Adapter;
+package designPatterns.adapter;
 
 public class Calculator {
 
