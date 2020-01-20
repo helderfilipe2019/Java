@@ -1,4 +1,4 @@
-package designerPatterns.behavioralPatterns.Observer;
+package designPatterns.behavioralPatterns.Observer;
 
 public interface ISubject {
 
