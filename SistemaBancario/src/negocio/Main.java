@@ -85,7 +85,7 @@ public class Main {
 				pulalinha();
 				break;
 			
-			// Sair
+			// Sair.
 			case 5:
 				continua = false;
 				System.out.println("################# Sistema encerrado #################");
